@@ -1,0 +1,5 @@
+name: TriVoter
+main: MainClass
+version: 1.0
+author: spontaneousCraft
+depend: [vault,votifier]
